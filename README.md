@@ -1,6 +1,6 @@
-# Project Template Repository
+# ArcPy Project Template
 
-Uses the directory structure suggested in Wilson (2017). Fork and edit at will!
+Uses the directory structure suggested in Wilson (2017). Includes a scratch GDB, final GDB as well as a conda yml environment for python 2.7+ and 3.x.
 
 # Reference
 
